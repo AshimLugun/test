@@ -12,6 +12,7 @@ public class TestApplication {
 		String str="abc";
 		boolean a=true;
 		long l=90;
+		String str1="ashim";
 		SpringApplication.run(TestApplication.class, args);
 	}
 
