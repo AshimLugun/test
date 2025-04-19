@@ -13,6 +13,7 @@ public class TestApplication {
 		boolean a=true;
 		long l=90;
 		String str1="ashim";
+		String str2="angel";
 		char ch='x';
 		SpringApplication.run(TestApplication.class, args);
 	}
