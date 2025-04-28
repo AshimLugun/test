@@ -7,15 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestApplication {
 
 	public static void main(String[] args) {
-		int x=10;
-		int y=90;
-		String str="abc";
-		boolean a=true;
-		long l=90;
-		String str1="ashim";
-		String str2="angel";
-		char ch='x';
-		SpringApplication.run(TestApplication.class, args);
+		System.out.println("ashim");
 	}
 
 }
